@@ -1,66 +1,59 @@
 <div align="center">
   <h1>Hi 👋, I'm Duraimurugan H</h1>
-  <h3>Full Stack Developer | Ex-Banker | Instrumentation Engineer</h3>
+  <h3>Full Stack Developer | Instrumentation Engineer | Ex-Banker</h3>
 </div>
 
 ---
 
 ### 💫 About Me
-I am a **Full Stack Developer** with a unique career arc. I transitioned from a Relationship Manager role in the banking sector to engineering scalable web applications. My background in **Instrumentation Engineering** gives me a first-principles approach to problem-solving, while my banking experience ensures I keep business logic and user trust at the forefront.
+I am a passionate web developer who transitioned from a career in banking to software engineering. My background in **Instrumentation Engineering** drives my methodical approach to building scalable, full-stack applications.
 
-- 🔭 **Currently working on:** Microservices for Global Import/Export Logistics.
-- ⚡ **Key Expertise:** MERN Stack, Microservices, and AI-driven automation.
-- 🎓 **Background:** B.E. in Electronics & Instrumentation.
-- 🎯 **Goal:** Building high-performance systems at scale.
-
----
-
-### 💻 Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="300"><strong>Frontend</strong></td>
-    <td align="center" width="300"><strong>Backend & DB</strong></td>
-    <td align="center" width="300"><strong>Tools & Cloud</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
-    </td>
-  </tr>
-</table>
+- 🔭 **Currently working on:** Advanced microservices for import/export logistics and AI-driven automation.
+- ⚡ **Key Expertise:** MERN Stack, secure Role-Based Access Control (RBAC), and automated reporting systems.
+- 🎯 **Goal:** Engineering high-performance systems that solve complex real-world problems.
 
 ---
 
-### 🛠 Featured Projects
-* **[Portfolio Admin Panel](https://durai-dev-portfolio.vercel.app)**: A full-stack dashboard featuring real-time visitor tracking and automated resume generation logic.
-* **Import/Export Logistics Suite**: (Professional) Working on microservices for shipment verification and AI-assisted tax comparisons.
+### 💻 Technical Skills
+
+| **Frontend** | **Backend** | **Tools & Database** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/ReactJS-90%25-61DAFB?style=flat&logo=react) | ![NodeJS](https://img.shields.io/badge/NodeJS-85%25-6DA55F?style=flat&logo=node.js) | ![VSCode](https://img.shields.io/badge/VSCode-90%25-007ACC?style=flat&logo=visual-studio-code) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-90%25-38B2AC?style=flat&logo=tailwind-css) | ![ExpressJS](https://img.shields.io/badge/ExpressJS-80%25-000000?style=flat&logo=express) | ![GitHub](https://img.shields.io/badge/GitHub-90%25-181717?style=flat&logo=github) |
+| ![HTML](https://img.shields.io/badge/HTML-90%25-E34F26?style=flat&logo=html5) | ![Python](https://img.shields.io/badge/Python-75%25-3776AB?style=flat&logo=python) | ![Postman](https://img.shields.io/badge/Postman-90%25-FF6C37?style=flat&logo=postman) |
+| ![CSS](https://img.shields.io/badge/CSS-95%25-1572B6?style=flat&logo=css3) | ![MongoDB](https://img.shields.io/badge/MongoDB-85%25-47A248?style=flat&logo=mongodb) | ![Git](https://img.shields.io/badge/Git-85%25-F05033?style=flat&logo=git) |
+| ![JS](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=flat&logo=javascript) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-65%25-336791?style=flat&logo=postgresql) | ![Supabase](https://img.shields.io/badge/Supabase-70%25-3ECF8E?style=flat&logo=supabase) |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-85%25-7952B3?style=flat&logo=bootstrap) | ![MySQL](https://img.shields.io/badge/MySQL-60%25-4479A1?style=flat&logo=mysql) | ![ViteJS](https://img.shields.io/badge/ViteJS-75%25-646CFF?style=flat&logo=vite) |
+
+---
+
+### 🎖️ Featured Projects
+
+#### **Military Assets Management System**
+*A robust, scalable web application designed for secure tracking of defense inventory.*
+* **Key Features:** Implemented automated audit trails using a **Cron Scheduler** for daily status reporting and inventory synchronization.
+* **Tech:** React, Node.js, Express, MongoDB, TailwindCSS.
+
+#### **College Placement Portal**
+*A comprehensive MERN stack platform connecting students with career opportunities.*
+* **Key Features:** Integrated **Redux** for complex state management across student and recruiter dashboards.
+* **Tech:** React, Node.js, Express, MongoDB, Redux.
+
+#### **X Clone App**
+*A feature-rich social media platform clone.*
+* **Key Features:** Utilized **React Query** for efficient server-state management and real-time UI updates.
+* **Tech:** React, Node.js, Express, MongoDB, JavaScript, TailwindCSS, React Query.
 
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hduraimurugan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hduraimurugan&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hduraimurugan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hduraimurugan&layout=compact&theme=radical" />
+</div>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hduraimurugan&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hduraimurugan&theme=radical" />
 </p>
 
 ---
@@ -72,6 +65,6 @@ I am a **Full Stack Developer** with a unique career arc. I transitioned from a 
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="28"></a>
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://visitcount.itsvg.in/api?id=hduraimurugan&icon=0&color=0" />
-</p>
+</p> -->
