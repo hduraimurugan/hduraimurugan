@@ -1,26 +1,77 @@
-# 💫 About Me:
-I'm Duraimurugan H, a passionate web developer with a background in Instrumentation Engineering. My journey began in the banking sector, where I worked as a Relationship Manager in City Union Bank, Bangalore.<br><br>My passion for the technology led me to transition into web development, where I gained expertise in HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, MySQL and more.<br><br>I'm eager to contribute my diverse skill set and enthusiasm to dynamic teams in the tech industry.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duraimurugan16) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hduraimurugan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hduraimurugan16) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hduraimurugan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hduraimurugan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hduraimurugan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hduraimurugan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hduraimurugan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <h1>Hi 👋, I'm Duraimurugan H</h1>
+  <h3>Full Stack Developer | Ex-Banker | Instrumentation Engineer</h3>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hduraimurugan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 💫 About Me
+I am a **Full Stack Developer** with a unique career arc. I transitioned from a Relationship Manager role in the banking sector to engineering scalable web applications. My background in **Instrumentation Engineering** gives me a first-principles approach to problem-solving, while my banking experience ensures I keep business logic and user trust at the forefront.
+
+- 🔭 **Currently working on:** Microservices for Global Import/Export Logistics.
+- ⚡ **Key Expertise:** MERN Stack, Microservices, and AI-driven automation.
+- 🎓 **Background:** B.E. in Electronics & Instrumentation.
+- 🎯 **Goal:** Building high-performance systems at scale.
+
+---
+
+### 💻 Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="300"><strong>Frontend</strong></td>
+    <td align="center" width="300"><strong>Backend & DB</strong></td>
+    <td align="center" width="300"><strong>Tools & Cloud</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Featured Projects
+* **[Portfolio Admin Panel](https://durai-dev-portfolio.vercel.app)**: A full-stack dashboard featuring real-time visitor tracking and automated resume generation logic.
+* **Import/Export Logistics Suite**: (Professional) Working on microservices for shipment verification and AI-assisted tax comparisons.
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hduraimurugan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hduraimurugan&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hduraimurugan&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/duraimurugan16"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="28"></a> 
+<a href="https://x.com/hduraimurugan16"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="28"></a> 
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="28"></a>
+</p>
+
+<p align="center"> 
+  <img src="https://visitcount.itsvg.in/api?id=hduraimurugan&icon=0&color=0" />
+</p>
