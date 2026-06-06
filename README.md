@@ -46,14 +46,25 @@ I am a passionate web developer who transitioned from a career in banking to sof
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hduraimurugan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hduraimurugan&layout=compact&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hduraimurugan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hduraimurugan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hduraimurugan&theme=radical" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hduraimurugan&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hduraimurugan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&area_color=A960FF" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hduraimurugan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
