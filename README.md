@@ -65,7 +65,7 @@ flowchart LR
 | 🌐 **Customer Web App** | React 19 + Vite + Tailwind 4 | Location-aware showtimes, live seat grid, **5-min server-side seat hold** with countdown, coupons, QR/PNG tickets, refund tracking | [Repo](https://github.com/hduraimurugan/cinema-hall-users) |
 | 🛠️ **Admin Panel** | React 19 + shadcn/ui + Recharts + Leaflet | Multi-hall workspace, **drag-and-design seat layout canvas**, bulk show scheduler, camera **QR ticket validator**, RBAC, notifications, API keys | [Repo](https://github.com/hduraimurugan/cinema-hall-admin) |
 | 🧩 **Backend API** | Express 5 + PostgreSQL | Razorpay verification + atomic webhooks + refunds, idempotency, seat-hold TTL release, Sentry, **352 passing tests** (Vitest + Supertest) | [Repo](https://github.com/hduraimurugan/cinema-hall-api) |
-| 🤖 **MCP Server** | Model Context Protocol (Node) | **57 tools** across 9 domains, per-person API keys that inherit real permissions, Postgres **Row-Level Security**, confirm-gated write tools, stdio + HTTP transports | 🔒 Private |
+| 🤖 **MCP Server** | Model Context Protocol (Node) | **57 tools** across 9 domains, per-person API keys that inherit real permissions, Postgres **Row-Level Security**, confirm-gated write tools, stdio + HTTP transports | [Repo](https://github.com/hduraimurugan/cinemax-mcp-server) |
 | 📚 **Docs** | Architecture & API docs | Endpoint reference, test inventory, flow diagrams | [Repo](https://github.com/hduraimurugan/cinema-app-docs) |
 
 <details>
